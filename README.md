@@ -14,18 +14,24 @@ Here’s a detailed summary of the insights derived from the Sales and Profit da
 ________________________________________
 **🔍 Overall Performance**
 
-•	Total Sales: $1,928,887.86
+•	**Total Sales:** *$1,928,887.86*
 
-•	Total Profit: $247,961.52
+•	**Total Profit:** *$247,961.52*
 
 The business is performing with a healthy overall profit, though a closer look reveals variations across months, categories, and customers.
 ________________________________________
 **👥 Top 5 Performing Customers by Sales**
+
 **Customer Name**  	**Sales ($)**	  **Profit ($)**
+
 Sean Miller	        25,035.10	    -1,983.44 (loss)
+
 Tamara Chand	      19,052.22	    8,981.32
+
 Raymond Buch	      14,986.78	    6,939.17
+
 Ken Lonsdale	      14,153.23	    805.46
+
 Sanjit Chand	      14,142.34	    5,757.42
 
 ⚠️ Insight: While Sean Miller generated the highest sales, it came with a net loss, indicating potential discounting, high return rates, or costly items.
