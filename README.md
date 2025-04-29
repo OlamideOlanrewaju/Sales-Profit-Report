@@ -15,6 +15,7 @@ ________________________________________
 **🔍 Overall Performance**
 •	Total Sales: $1,928,887.86
 •	Total Profit: $247,961.52
+
 The business is performing with a healthy overall profit, though a closer look reveals variations across months, categories, and customers.
 ________________________________________
 **👥 Top 5 Performing Customers by Sales**
@@ -24,6 +25,7 @@ Tamara Chand	  19,052.22	    8,981.32
 Raymond Buch	  14,986.78	    6,939.17
 Ken Lonsdale	  14,153.23	    805.46
 Sanjit Chand	  14,142.34	    5,757.42
+
 ⚠️ Insight: While Sean Miller generated the highest sales, it came with a net loss, indicating potential discounting, high return rates, or costly items.
 ________________________________________
 **📦 Category Performance**
@@ -31,7 +33,9 @@ ________________________________________
 Technology	    704,452.15	121,861.73
 Furniture	      622,342.10	17,888.67
 Office Supplies	602,093.61	108,211.12
+
 ✅ Insight: Technology leads in both sales and profit.
+
 ⚠️ Furniture has strong sales but relatively low profit, warranting a pricing or cost review.
 ________________________________________
 
@@ -41,15 +45,16 @@ December	241,464.23	34,885.83
 November	234,013.28	25,778.40
 September	219,783.30	25,865.93
 March	    205,005.51	28,594.64
+
 📈 Insight: Q4 (especially December) is the most profitable period. Marketing and inventory planning should align with this seasonal spike.
 ________________________________________
+
 **📌 Key Takeaways**
 •	Prioritize high-profit customers like Tamara Chand and Raymond Buch.
 •	Re-evaluate pricing or costs associated with customers like Sean Miller.
 •	Continue investing in the Technology category, which yields the best returns.
 •	Monitor and improve margins in the Furniture category.
 •	Leverage high-performing months (especially Q4) for promotions, launches, and stock-ups.
-
 
 ## 🔍 Key Features
 
