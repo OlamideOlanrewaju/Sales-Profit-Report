@@ -24,35 +24,44 @@ ________________________________________
 
 **Customer Name**  	**Sales ($)**	  **Profit ($)**
 
-Sean Miller	        25,035.10	    -1,983.44 (loss)
+Sean Miller  |        25,035.10	|    -1,983.44 (loss)
 
-Tamara Chand	      19,052.22	    8,981.32
+Tamara Chand |	      19,052.22 |	    8,981.32
 
-Raymond Buch	      14,986.78	    6,939.17
+Raymond Buch |	      14,986.78	|    6,939.17
 
-Ken Lonsdale	      14,153.23	    805.46
+Ken Lonsdale |	      14,153.23	|   805.46
 
-Sanjit Chand	      14,142.34	    5,757.42
+Sanjit Chand |	      14,142.34	|   5,757.42
 
 ⚠️ Insight: While Sean Miller generated the highest sales, it came with a net loss, indicating potential discounting, high return rates, or costly items.
 ________________________________________
 
 **📦 Category Performance**
+
 **Category**	  **Sales ($)**	 **Profit ($)**
-Technology	      704,452.15	  121,861.73
-Furniture	        622,342.10	  17,888.67
-Office Supplies	  602,093.61	  108,211.12
+
+Technology	    |     704,452.15	|  121,861.73
+
+Furniture	      |     622,342.10	|  17,888.67
+
+Office Supplies |	    602,093.61  |	 108,211.12
 
 ✅ Insight: Technology leads in both sales and profit.
 
 ⚠️ Furniture has strong sales but relatively low profit, warranting a pricing or cost review.
 ________________________________________
 
-# 📅 Best Months for Sales and Profit
+**📅 Best Months for Sales and Profit**
+
 **Month**	 **Sales ($)**	 **Profit ($)**
+
 December	  241,464.23	    34,885.83
+
 November	  234,013.28	    25,778.40
+
 September	  219,783.30	    25,865.93
+
 March	      205,005.51	    28,594.64
 
 📈 Insight: Q4 (especially December) is the most profitable period. Marketing and inventory planning should align with this seasonal spike.
@@ -87,6 +96,7 @@ ________________________________________
 ## 📁 Files Included
 
 - **Main dashboard file containing the report and data.**
+  
 - ![Sales and Profit Dataset and Analysis](https://docs.google.com/spreadsheets/d/1c0KL-WKErdfbgQxcrOPuWBAFdd2k0n2N/edit?usp=sharing&ouid=117676989541088791171&rtpof=true&sd=true)) 
 
 ---
