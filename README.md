@@ -3,6 +3,7 @@
 This project features a dynamic **Excel-based dashboard** created by I created to deliver actionable insights into **sales performance and profit analysis**. The dashboard was designed for one of my clients using Microsoft Excel’s powerful analytics and visualization features.
 
 ---
+
 ## 📸 Dashboard Preview
 
 Access the dashboard here: [Sales and Profit Dashboard](https://drive.google.com/file/d/18RliZy2mnJxKrBIT0f1ffdt2JHNDwsol/view?usp=drive_link)
@@ -10,8 +11,10 @@ Access the dashboard here: [Sales and Profit Dashboard](https://drive.google.com
 ---
 
 # 🔍 Insights
+
 Here’s a detailed summary of the insights derived from the Sales and Profit dataset:
 ________________________________________
+
 **🔍 Overall Performance**
 
 •	**Total Sales:** *$1,928,887.86*
@@ -20,6 +23,7 @@ ________________________________________
 
 The business is performing with a healthy overall profit, though a closer look reveals variations across months, categories, and customers.
 ________________________________________
+
 **👥 Top 5 Performing Customers by Sales**
 
 **Customer Name** | 	**Sales ($)**	|  **Profit ($)**
@@ -35,6 +39,7 @@ Ken Lonsdale |	      14,153.23	|   805.46
 Sanjit Chand |	      14,142.34	|   5,757.42
 
 ⚠️ Insight: While Sean Miller generated the highest sales, it came with a net loss, indicating potential discounting, high return rates, or costly items.
+
 ________________________________________
 
 **📦 Category Performance**
@@ -50,6 +55,7 @@ Office Supplies |	    602,093.61  |	 108,211.12
 ✅ Insight: Technology leads in both sales and profit.
 
 ⚠️ Furniture has strong sales but relatively low profit, warranting a pricing or cost review.
+
 ________________________________________
 
 **📅 Best Months for Sales and Profit**
@@ -65,9 +71,11 @@ September	|  219,783.30	  |   25,865.93
 March	    |   205,005.51	|    28,594.64
 
 📈 Insight: Q4 (especially December) is the most profitable period. Marketing and inventory planning should align with this seasonal spike.
+
 ________________________________________
 
 **📌 Key Takeaways**
+
 •	Prioritize high-profit customers like Tamara Chand and Raymond Buch.
 •	Re-evaluate pricing or costs associated with customers like Sean Miller.
 •	Continue investing in the Technology category, which yields the best returns.
