@@ -22,7 +22,7 @@ The business is performing with a healthy overall profit, though a closer look r
 ________________________________________
 **👥 Top 5 Performing Customers by Sales**
 
-**Customer Name**  	**Sales ($)**	  **Profit ($)**
+**Customer Name** | 	**Sales ($)**	|  **Profit ($)**
 
 Sean Miller  |        25,035.10	|    -1,983.44 (loss)
 
@@ -39,7 +39,7 @@ ________________________________________
 
 **📦 Category Performance**
 
-**Category**	  **Sales ($)**	 **Profit ($)**
+**Category**  |  **Sales ($)**	| **Profit ($)**
 
 Technology	    |     704,452.15	|  121,861.73
 
@@ -54,15 +54,15 @@ ________________________________________
 
 **📅 Best Months for Sales and Profit**
 
-**Month**	 **Sales ($)**	 **Profit ($)**
+**Month**	| **Sales ($)**	| **Profit ($)**
 
-December	  241,464.23	    34,885.83
+December	|  241,464.23	  |  34,885.83
 
-November	  234,013.28	    25,778.40
+November	|  234,013.28	  |  25,778.40
 
-September	  219,783.30	    25,865.93
+September	|  219,783.30	  |   25,865.93
 
-March	      205,005.51	    28,594.64
+March	    |   205,005.51	|    28,594.64
 
 📈 Insight: Q4 (especially December) is the most profitable period. Marketing and inventory planning should align with this seasonal spike.
 ________________________________________
