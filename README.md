@@ -5,7 +5,7 @@ This project features a dynamic **Excel-based dashboard** created by I created t
 ---
 ## 📸 Dashboard Preview
 
-![Sales and Profit Dashboard]([assets/dashboard-preview.png](https://docs.google.com/spreadsheets/d/1c0KL-WKErdfbgQxcrOPuWBAFdd2k0n2N/edit?usp=sharing&ouid=117676989541088791171&rtpof=true&sd=true)) <!-- Replace with actual path or URL to your image -->
+Access the dashboard here: [Sales and Profit Dashboard](https://docs.google.com/spreadsheets/d/1c0KL-WKErdfbgQxcrOPuWBAFdd2k0n2N/edit?usp=sharing&ouid=117676989541088791171&rtpof=true&sd=true))
 
 ---
 
@@ -97,7 +97,7 @@ ________________________________________
 
 - **Main dashboard file containing the report and data.**
   
-- ![Sales and Profit Dataset and Analysis](https://docs.google.com/spreadsheets/d/1c0KL-WKErdfbgQxcrOPuWBAFdd2k0n2N/edit?usp=sharing&ouid=117676989541088791171&rtpof=true&sd=true)) 
+[Sales and Profit Dataset and Analysis](https://docs.google.com/spreadsheets/d/1c0KL-WKErdfbgQxcrOPuWBAFdd2k0n2N/edit?usp=sharing&ouid=117676989541088791171&rtpof=true&sd=true)
 
 ---
 
