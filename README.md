@@ -5,7 +5,7 @@ This project features a dynamic **Excel-based dashboard** created by **Olamide O
 ---
 ## 📸 Dashboard Preview
 
-![Sales and Profit Dashboard](assets/dashboard-preview.png) <!-- Replace with actual path or URL to your image -->
+![Sales and Profit Dashboard]([assets/dashboard-preview.png](https://docs.google.com/spreadsheets/d/1c0KL-WKErdfbgQxcrOPuWBAFdd2k0n2N/edit?usp=sharing&ouid=117676989541088791171&rtpof=true&sd=true)) <!-- Replace with actual path or URL to your image -->
 
 ---
 
@@ -31,6 +31,7 @@ This project features a dynamic **Excel-based dashboard** created by **Olamide O
 ## 📁 Files Included
 
 - `Sales and Profit Data.xlsx` – Main dashboard file containing the report and data.
+- ![Sales and Profit Dashboard]([assets/dashboard-preview.png](https://docs.google.com/spreadsheets/d/1c0KL-WKErdfbgQxcrOPuWBAFdd2k0n2N/edit?usp=sharing&ouid=117676989541088791171&rtpof=true&sd=true)) 
 
 ---
 
