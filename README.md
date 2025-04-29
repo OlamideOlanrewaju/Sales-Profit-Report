@@ -13,7 +13,9 @@ This project features a dynamic **Excel-based dashboard** created by I created t
 Here’s a detailed summary of the insights derived from the Sales and Profit dataset:
 ________________________________________
 **🔍 Overall Performance**
+
 •	Total Sales: $1,928,887.86
+
 •	Total Profit: $247,961.52
 
 The business is performing with a healthy overall profit, though a closer look reveals variations across months, categories, and customers.
